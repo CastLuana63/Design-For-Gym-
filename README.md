@@ -30,6 +30,5 @@ O **FitGym!Up** é um site desenvolvido com HTML e CSS para promover uma academi
 Desenvolvido por [Seu Nome]
 
 ## Licença
----
 **© Copyright 2024 | Luana Castanheda**
 
