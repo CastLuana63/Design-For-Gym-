@@ -1,48 +1,34 @@
 # FitGym!Up
 
-Descrição
+## Descrição
+O **FitGym!Up** é um site desenvolvido com HTML e CSS para promover uma academia, oferecendo informações sobre serviços, planos e benefícios para os clientes.
 
-O FitGym!Up é um site desenvolvido com HTML e CSS para promover uma academia, oferecendo informações sobre serviços, planos e benefícios para os clientes.
+## Tecnologias Utilizadas
+- **HTML5**: Estrutura do site
+- **CSS3**: Estilização e layout
 
-Tecnologias Utilizadas
+## Estrutura do Projeto
+- `/index.html` - Página principal do site
+- `/styles/` - Pasta contendo os arquivos CSS
+  - `style.css` - Estilos gerais do site
+- `/assets/` - Imagens e outros recursos utilizados
 
-HTML5: Estrutura do site
+## Funcionalidades
+- Apresentação da academia e seus diferenciais
+- Exibição de planos e preços
+- Seção de depoimentos de clientes
+- Formulário de contato
 
-CSS3: Estilização e layout
+## Como Utilizar
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/fitgymup.git
+   ```
+2. Abra o arquivo `index.html` em um navegador web
 
-Estrutura do Projeto
-
-/index.html - Página principal do site
-
-/styles/ - Pasta contendo os arquivos CSS
-
-style.css - Estilos gerais do site
-
-/assets/ - Imagens e outros recursos utilizados
-
-Funcionalidades
-
-Apresentação da academia e seus diferenciais
-
-Exibição de planos e preços
-
-Seção de depoimentos de clientes
-
-Formulário de contato
-
-Como Utilizar
-
-Clone este repositório:
-
-Abra o arquivo index.html em um navegador web
-
-Autor
-
+## Autor
 Desenvolvido por [Seu Nome]
 
-Licença
-
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-
+## Licença
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
