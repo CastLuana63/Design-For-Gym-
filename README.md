@@ -30,5 +30,6 @@ O **FitGym!Up** é um site desenvolvido com HTML e CSS para promover uma academi
 Desenvolvido por [Seu Nome]
 
 ## Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+---
+**© Copyright 2024 | Luana Castanheda**
 
